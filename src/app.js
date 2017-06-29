@@ -1,6 +1,5 @@
 import {div, h1} from '@cycle/dom'
 import xs from 'xstream'
-import sampleCombine from 'xstream/extra/sampleCombine'
 import {html} from 'snabbdom-jsx'
 import isolate from '@cycle/isolate'
 import Label from './label'
